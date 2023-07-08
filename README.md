@@ -3,8 +3,8 @@
 ### 팀 무한 원숭이
 ![Alt text](/Assets/Sprite/title.png)
 </br>
->[Youtube](https://youtu.be/1lUBC5ziebE) </br>
->[itch.io](https://yogame.itch.io/palebluedot)
+> 소개 영상 | [Youtube](https://youtu.be/1lUBC5ziebE) </br>
+> 플레이 | [itch.io](https://yogame.itch.io/palebluedot)
 </br>
 ***
 ## 1. 제작기간 & 참여인원 </br>
