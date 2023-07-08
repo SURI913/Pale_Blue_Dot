@@ -5,6 +5,7 @@
 </br>
 > 소개 영상 | [Youtube](https://youtu.be/1lUBC5ziebE) </br>
 > 플레이 | [itch.io](https://yogame.itch.io/palebluedot)
+</br>
 <hr/>
 
 ## 1. 제작기간 & 참여인원 </br>
