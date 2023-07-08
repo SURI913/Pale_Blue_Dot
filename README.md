@@ -3,7 +3,7 @@
 ### 팀 무한 원숭이
 ![Alt text](/Assets/Sprite/title.png)
 </br>
->[Youtube](https://youtu.be/1lUBC5ziebE)
+>[Youtube](https://youtu.be/1lUBC5ziebE) </br>
 >[itch.io](https://yogame.itch.io/palebluedot)
 </br>
 ***
