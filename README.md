@@ -7,7 +7,7 @@
 > 플레이 | [itch.io](https://yogame.itch.io/palebluedot)
 </br>
 ***
-</br>
+<hr/>
 
 ## 1. 제작기간 & 참여인원 </br>
 - 2023.06.26 ~ 07.03
